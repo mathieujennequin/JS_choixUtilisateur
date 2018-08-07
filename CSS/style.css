@@ -1,0 +1,22 @@
+body {
+    background-image: url("../images/maisonhantee.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-color: black;
+}
+#kiwi , #orange {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.image {
+    display: none;
+    height: 300px;
+    width: 300px;
+}
+.pomme {
+    display: flex;
+    justify-content: center;
+}
